@@ -8,9 +8,10 @@ Skills: C++ / Java / JS / HTML / CSS
 - 🌱 I’m currently learning Data Structure and Algorithm, Web Application 
 - 📫 How to reach me: sadnur.ru.cse@gmail.com 
 
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=sadnur__islam)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SadnurIslam)  
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=sadnur__islam)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SadnurIslam)](https://github.com/ryo-ma/github-profile-trophy)
 
