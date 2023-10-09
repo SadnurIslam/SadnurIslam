@@ -1,5 +1,5 @@
 <h1 align="center"> Hello, I'm Sadnur Islam</h1>
-<h3 align ="center"> Web Developer and Competitive Programmer</h3>
+<h3 align ="center"> I'm a Web Developer and Competitive Programmer</h3>
 
 
 Skills: C++ / Java / JS / HTML / CSS
@@ -17,8 +17,5 @@ Skills: C++ / Java / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SadnurIslam&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SadnurIslam)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=SadnurIslam)  
 
-![Profile views](https://gpvc.arturio.dev/SadnurIslam)  
