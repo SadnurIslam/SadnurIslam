@@ -1,4 +1,5 @@
-# Hi there 👋, I'm Sadnur Islam
+<p align="center">
+# Hello, I'm Sadnur Islam
 ### Web Developer and Competitive Programmer
 
 
@@ -22,3 +23,4 @@ Skills: C++ / Java / JS / HTML / CSS
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=SadnurIslam)  
 
 ![Profile views](https://gpvc.arturio.dev/SadnurIslam)  
+</p>
