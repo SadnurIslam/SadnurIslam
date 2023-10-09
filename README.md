@@ -1,11 +1,21 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Sadnur Islam</h1>
+<h3 align="center">A passionate web developer and competitive programmer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SadnurIslam&label=Profile%20views&color=0e75b6&style=flat" alt="SadnurIslam" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadnurislam&label=Profile%20views&color=0e75b6&style=flat" alt="sadnurislam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SadnurIslam" alt="SadnurIslam" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadnurislam" alt="sadnurislam" /></a> </p>
+
+- 🔭 I’m currently working on [codeforces](https://codeforces.com/)
+
+- 🌱 I’m currently learning **Web Development, Data Structure and Algorithm**
+
+- 💬 Ask me about **C++, Java, CSS, HTML, JS**
+
+- 📫 How to reach me **sadnur.ru.cse@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://fb.com/sadnurislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sadnurislam" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sadnur_islam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sadnur_islam" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sadnur__islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sadnur__islam" height="30" width="40" /></a>
 </p>
