@@ -1,4 +1,4 @@
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SadnurIslam)  
+[<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SadnurIslam)  
 
 <h1 align="center">Hi 👋, I'm Sadnur Islam</h1>
 <h3 align="center">A passionate web developer and competitive programmer from Bangladesh</h3>
