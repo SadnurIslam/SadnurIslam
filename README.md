@@ -29,7 +29,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SadnurIslam)](https://github.com/anuraghazra/github-readme-stats)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadnurislam&show_icons=true&locale=en" alt="sadnurislam" /></p>
 
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=sadnur__islam)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=__sadnur__)
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sadnurislam&" alt="sadnurislam" /></p>
 
