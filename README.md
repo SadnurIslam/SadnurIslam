@@ -31,7 +31,7 @@
 
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=__sadnur__)
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sadnurislam&" alt="sadnurislam" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sadnurislam" alt="sadnurislam" /></p>
 
 
 
