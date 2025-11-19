@@ -1,14 +1,13 @@
 <!-- Banner (optional) -->
-<!--
-<p align="center">
-  <img src="https://i.imgur.com/Z8J8a8y.png" width="100%" />
-</p>
--->
 
-<h1 align="center">Hi, I'm <strong>Sadnur Islam</strong> 👋</h1>
+<p align="center">
+  <img src="./rsz_github-header-banner1.png" width="100%" />
+</p>
+
+<!-- <h1 align="center">Hi, I'm <strong>Sadnur Islam</strong> 👋</h1>
 <h3 align="center">Frontend Developer & Competitive Programmer</h3>
 
----
+--- -->
 
 ## 🧑‍💻 About Me  
 I'm a passionate web developer and competitive programmer who loves building modern web applications and solving challenging algorithmic problems. I enjoy exploring new technologies, improving my problem-solving skills, and contributing to meaningful projects.
