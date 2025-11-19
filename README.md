@@ -1,35 +1,107 @@
-<p align="center"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'> </p>
+<!-- Banner (optional) -->
+<!--
+<p align="center">
+  <img src="https://i.imgur.com/Z8J8a8y.png" width="100%" />
+</p>
+-->
 
-<h1 align="center">Hi 👋, I'm Sadnur Islam</h1>
-<h3 align="center">A passionate web developer and competitive programmer from Bangladesh</h3>
+<h1 align="center">Hi, I'm <strong>Sadnur Islam</strong> 👋</h1>
+<h3 align="center">Frontend Developer & Competitive Programmer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadnurislam&label=Profile%20views&color=0e75b6&style=flat" alt="sadnurislam" /> </p>
+---
+
+## 🧑‍💻 About Me  
+I'm a passionate web developer and competitive programmer who loves building modern web applications and solving challenging algorithmic problems. I enjoy exploring new technologies, improving my problem-solving skills, and contributing to meaningful projects.
+
+---
+
+## 🔥 Current Activities  
+- Learning **Next.js** & **TypeScript**  
+- Building a **Campus Job Portal** (Final Year Project)  
+- Preparing for **ICPC**  
+- Solving DSA on **Codeforces**, **LeetCode**
+
+---
+
+## 🛠️ Skills Overview  
+### ✔ When I code, I rely on
+
+<table>
+  <tr>
+    <th>Skills Overview</th>
+    <th>Technologies</th>
+  </tr>
+
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-30363D?style=flat&logo=javascript&logoColor=F7DF1E&borderRadius=20" />
+      <!-- <img src="https://img.shields.io/badge/TypeScript-30363D?style=flat&logo=typescript&logoColor=3178C6&borderRadius=20" /> -->
+      <img src="https://img.shields.io/badge/C%2B%2B-30363D?style=flat&logo=cplusplus&logoColor=00599C&borderRadius=20" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Frontend Technologies</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-30363D?style=flat&logo=html5&logoColor=E34F26&borderRadius=20" />
+      <img src="https://img.shields.io/badge/CSS3-30363D?style=flat&logo=css3&logoColor=1572B6&borderRadius=20" />
+      <img src="https://img.shields.io/badge/TailwindCSS-30363D?style=flat&logo=tailwindcss&logoColor=06B6D4&borderRadius=20" />
+      <img src="https://img.shields.io/badge/React-30363D?style=flat&logo=react&logoColor=61DAFB&borderRadius=20" />
+      <!-- <img src="https://img.shields.io/badge/Next.js-30363D?style=flat&logo=nextdotjs&logoColor=white&borderRadius=20" /> -->
+      <!-- <img src="https://img.shields.io/badge/Redux-30363D?style=flat&logo=redux&logoColor=764ABC&borderRadius=20" /> -->
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Backend Development</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-30363D?style=flat&logo=node.js&logoColor=339933&borderRadius=20" />
+      <img src="https://img.shields.io/badge/Express-30363D?style=flat&logo=express&logoColor=white&borderRadius=20" />
+      <!-- <img src="https://img.shields.io/badge/Mongoose-30363D?style=flat&logo=mongoose&logoColor=880000&borderRadius=20" /> -->
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Database</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/MongoDB-30363D?style=flat&logo=mongodb&logoColor=47A248&borderRadius=20" />
+      <img src="https://img.shields.io/badge/MySQL-30363D?style=flat&logo=mysql&logoColor=4479A1&borderRadius=20" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Tools & Platforms</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-30363D?style=flat&logo=git&logoColor=F05033&borderRadius=20" />
+      <img src="https://img.shields.io/badge/GitHub-30363D?style=flat&logo=github&logoColor=white&borderRadius=20" />
+      <img src="https://img.shields.io/badge/Firebase-30363D?style=flat&logo=firebase&logoColor=FFCA28&borderRadius=20" />
+      <img src="https://img.shields.io/badge/JWT-30363D?style=flat&logo=jsonwebtokens&logoColor=white&borderRadius=20" />
+      <img src="https://img.shields.io/badge/Postman-30363D?style=flat&logo=postman&logoColor=FF6C37&borderRadius=20" />
+      <img src="https://img.shields.io/badge/VS_Code-30363D?style=flat&logo=visual-studio-code&logoColor=0078D4&borderRadius=20" />
+    </td>
+  </tr>
+</table>
 
 
+---
 
-- 🔭 I’m currently working on [codeforces](https://codeforces.com/)
-
-- 🌱 I’m currently learning **Web Development, Data Structure and Algorithm**
-
-- 💬 Ask me about **C++, Java, CSS, HTML, JS**
-
-- 📫 How to reach me **sadnur.ru.cse@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/sadnurislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sadnurislam" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sadnur_islam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sadnur_islam" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/__sadnur__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sadnur__islam" height="30" width="40" /></a>
+# 📊 GitHub Stats  
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SadnurIslam&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadnurIslam&layout=compact&theme=tokyonight" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=SadnurIslam&theme=tokyonight" />
+</p>
 
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SadnurIslam)](https://github.com/anuraghazra/github-readme-stats)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadnurislam&show_icons=true&locale=en" alt="sadnurislam" /></p>
+# 🧩 Codeforces Stats  
 
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=__sadnur__)
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Sadnur_Islam&theme=tokyonight" />
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sadnurislam)](https://git.io/streak-stats)
 
