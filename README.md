@@ -1,7 +1,7 @@
 <!-- Banner (optional) -->
 
 <p align="center">
-  <img src="./rsz_github-header-banner1.png" width="100%" />
+  <img src="./banner (2).png" width="100%" height="220px"/>
 </p>
 
 <!-- <h1 align="center">Hi, I'm <strong>Sadnur Islam</strong> 👋</h1>
